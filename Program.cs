@@ -19,13 +19,6 @@ namespace FlashHack_Foxtrot
                 app.UseHsts();
             }
 
-            //ändring för test
-
-            //tredje ändring, tar bort andra ändring
-
-
-            //ännnu mer ändring för test
-
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
