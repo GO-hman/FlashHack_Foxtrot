@@ -20,7 +20,8 @@ namespace FlashHack_Foxtrot
             }
 
             //ändring för test
-            //extra ändring
+
+            //tredje ändring, tar bort andra ändring
 
 
             //ännnu mer ändring för test
