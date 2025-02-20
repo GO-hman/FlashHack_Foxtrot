@@ -20,6 +20,7 @@ namespace FlashHack_Foxtrot
             }
 
 
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
