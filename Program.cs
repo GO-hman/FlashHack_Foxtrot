@@ -20,6 +20,7 @@ namespace FlashHack_Foxtrot
             }
 
             //ändring för test
+            //extra ändring
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
