@@ -19,13 +19,8 @@ namespace FlashHack_Foxtrot
                 app.UseHsts();
             }
 
-            //Sista kommentaren. Lovar.
-
-            //Sista kommentaren. Lovar.
-
-            //push test igen
-
-
+            //användare GitHub
+            //GO-hman, Racke77, 
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
