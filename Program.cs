@@ -19,7 +19,6 @@ namespace FlashHack_Foxtrot
                 app.UseHsts();
             }
 
-
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
