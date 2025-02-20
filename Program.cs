@@ -19,6 +19,9 @@ namespace FlashHack_Foxtrot
                 app.UseHsts();
             }
 
+            //github användare:
+            //GO-hman, Racke77, 
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
