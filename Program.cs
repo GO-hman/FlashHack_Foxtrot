@@ -24,6 +24,7 @@ namespace FlashHack_Foxtrot
             //push test igen
 
 
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
