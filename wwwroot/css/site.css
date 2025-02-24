@@ -22,11 +22,28 @@ body {
 }
 
 .custom-margin {
-    margin: 0 10em;
+    margin: 0 15em;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 1200px) {
     .custom-margin {
         margin: 0;
     }
+    .navbar .navbar-buttons {
+        margin: 0;
+    }
+}
+
+.full-width-navbar {
+    position: relative;
+    width: 100vw;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    background-color: #808080;
+}
+
+.navbar-buttons {
+    margin: 0 15em;
 }
